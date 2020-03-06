@@ -1,0 +1,42 @@
+<rss version="2.0">
+<channel>
+<title>Visitabudhabi - Rss Events Feed</title>
+<description>Visitabudhabi - Rss Events Feed</description>
+<language>en</language>
+<pubDate>3/6/2020</pubDate>
+<link>http://visitabudhabi.ae/</link>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>TCA Abu Dhabi</generator>
+<Item>
+<title>"Nagham Al Qasayed" at Qasr Al Muwaiji</title>
+<description>
+Qasr Al Muwaiji and Bait Al Oud will present an evening of music accompanied by poetry from renowned Emirati poets such as Ahmed Al Mannai, Zainab, Al Balushi and Aseel Al Kindi.
+</description>
+<link>
+https://visitabudhabi.ae/en/see.and.do/leisure/events/nagham.al.qasayed.at.qasr.al.muwaiji.aspx
+</link>
+<id>1</id>
+<thumbnailimage>
+https://visitabudhabi.ae/DataFolder/Images/Thumbnails/900x600/QAMPoetry-2020-Main1.jpg
+</thumbnailimage>
+<guid>nagham.al.qasayed.at.qasr.al.muwaiji</guid>
+<pubDate>3/6/2020</pubDate>
+</Item>
+<Item>
+<title>10 Days Before the Wedding at Al Qattara Cinema </title>
+<description>
+Al Qattara Arts Centre will be screening a Yemeni film entitled '10 Days Before the Wedding', directed by Amr Gamal.
+</description>
+<link>
+https://visitabudhabi.ae/en/see.and.do/leisure/events/10.days.before.the.wedding.aspx
+</link>
+<id>2</id>
+<thumbnailimage>
+https://visitabudhabi.ae/DataFolder/Images/Thumbnails/900x600/QattaraCinema-2020-Main1.jpg
+</thumbnailimage>
+<guid>10.days.before.the.wedding</guid>
+<pubDate>3/6/2020</pubDate>
+</Item>
+
+</channel>
+</rss>
